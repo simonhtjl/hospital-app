@@ -1,0 +1,11 @@
+
+.registration-container{
+    background-color: rgb(226, 227, 231);
+    border-radius: 20px;
+    padding: 40px;
+    width: 350px;
+    height: auto;
+    margin-top: 100px;
+    font-family: Jost;
+    box-shadow: 4px 7px 6px grey;
+}

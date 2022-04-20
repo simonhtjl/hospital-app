@@ -1,0 +1,13 @@
+
+.main{
+    display: flex;
+    justify-content: center;
+}
+
+.footer{
+    display: flex;
+    justify-content: center;
+    margin-top: 160px;
+    background-color: #171a16e0;
+    font-family: Jost;
+}

@@ -1,0 +1,11 @@
+.container-fluid{
+    display: inline-flex;
+    flex-wrap: wrap;
+    font-size: 13px;
+    gap: 15px;
+    padding: 20px;
+}
+
+.card{
+    width: 198px;
+}

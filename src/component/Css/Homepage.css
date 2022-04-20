@@ -1,0 +1,99 @@
+.img{
+    display: flex;
+    width: 400px;
+    border-radius: 3em;
+}
+
+.index-container{
+    display: flex;
+    width: 100%;
+    height: 100vh;
+    font-family: Jost;
+    padding-bottom: 600px;
+    padding-top: 50px;
+}
+
+.index-row{
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+}
+
+.index-col1{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    align-items: center;
+}
+
+.index-text1{
+    display: flex;
+    font-size: 50px;
+}
+
+.index-text2{
+    display: flex;
+    font-size: large;
+}
+
+.index-button{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin-top: 40px;
+}
+
+.index-col2{
+    display: flex;
+    flex-direction: row;
+    justify-content: end;
+    width: 100%;
+}
+
+.index-wrap{
+    display: flex;
+    flex-direction: row;
+}
+
+.index-identity{
+    display: flex;
+    flex-direction: column;
+    margin: 20px;
+    text-align: center;
+}
+
+.index-exp{
+    display: flex;
+    flex-direction: column;
+    margin: 20px;
+    padding-left: 70px;
+}
+
+/* FEATURES */
+
+.features{
+    display: flex;
+    justify-content: space-around;
+    gap: 40px;
+    font-family: Jost;
+    text-align: center;
+    background-color: rgb(205, 226, 219);
+    padding: 20px;
+    width: 100%;
+}
+
+.features .feat-title{
+    font-size: x-large;
+    font-weight: bold;
+    margin-bottom: 40px;
+}
+
+.features .feat-kartu{
+    border-style: solid;
+    border-width: 5px;
+}
+
+.but2{
+    display: flex;
+    margin-top: 73px;
+}
